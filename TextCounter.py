@@ -14,7 +14,6 @@ class MapReduce():
 		self.arguments = sys.argv
 		self.incorrect_chars = '.,?:;'
 		self.files = []
-		
 
 	def printInformation(self,file_name):
 		print '--------------------------'
